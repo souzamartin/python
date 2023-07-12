@@ -1,3 +1,6 @@
 [submodule "python-p3-inheritance-lab-pt-2"]
 	path = python-p3-inheritance-lab-pt-2
 	url = git@github.com:learn-co-curriculum/python-p3-inheritance-lab-pt-2.git
+[submodule "p3-class-attributes-and-methods-lab"]
+	path = p3-class-attributes-and-methods-lab
+	url = git@github.com:learn-co-curriculum/python-p3-class-attributes-and-methods-lab.git
