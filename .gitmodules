@@ -4,3 +4,6 @@
 [submodule "p3-class-attributes-and-methods-lab"]
 	path = p3-class-attributes-and-methods-lab
 	url = git@github.com:learn-co-curriculum/python-p3-class-attributes-and-methods-lab.git
+[submodule "p3-fileio-lab"]
+	path = p3-fileio-lab
+	url = git@github.com:learn-co-curriculum/python-p3-fileio-lab.git
