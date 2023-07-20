@@ -10,3 +10,6 @@
 [submodule "p4-flask-application-structure"]
 	path = p4-flask-application-structure
 	url = git@github.com:learn-co-curriculum/python-p4-flask-application-structure.git
+[submodule "p4-routing-and-views-lab"]
+	path = p4-routing-and-views-lab
+	url = git@github.com:learn-co-curriculum/python-p4-routing-and-views-lab.git
